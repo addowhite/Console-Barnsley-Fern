@@ -3,6 +3,7 @@ A C++ implementation of the Barnsley Fern algorithm.
 Find the algorithm here:
 https://en.wikipedia.org/wiki/Barnsley_fern
 Output is displayed in the console window.
+Video: https://youtu.be/3Q5tAWkAEBc
 
 ### Platform
 Windows-only for the moment as the Windows console API is used to render the fern.
